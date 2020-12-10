@@ -1,0 +1,17 @@
+
+div
+{
+  width:90vw;
+  height:70vh;
+  background-color:grey;
+  position:relative;
+}
+img
+{
+  width:50%;
+  height:90%;
+  position:absolute;
+  bottom:0;
+  right:0;
+  
+}
